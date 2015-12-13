@@ -49,13 +49,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">עברית</a>
+                        <a href="#">מה</a>
                     </li>
                     <li>
-                        <a href="#">Services</a>
+                        <a href="#">אתה</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="#">?אומר</a>
                     </li>
                 </ul>
             </div>

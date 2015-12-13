@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Adi Zaken.&trade; </h1>
-                        <p class="intro-text">Architecture & Design.<br></p>
+                        <p class="intro-text">P.E Architecture & Design.<br></p>
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -95,10 +95,10 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h1>נסיון מקצועי</h1>
-                <h3>סרטוט אדריכלי</h3>
+                <h3>שרטוט אדריכלי</h3>
                 <p>.1:00, 1:5, 1:20, 1:50 :סקאלות של<br>.פרטים<br>.חתכים<br>.חזיתות<br>.פריסות</p>
                 <h3>תכנון ועיצוב</h3>
-                <p>.חזיתות<br>.גלריות<br>.ממ"דים<br>.תוספות בנייה<br>.מטבחים<br>.פיתוח שטח<br>.הדמיות<br>.פרגולות<br>.חיפויים<br>.מדרגות<br>.עיצוב פנים<br>.נישות</p>
+                <p>.בנייה קלה<br>.גלריות<br>.ממ"דים<br>.תוספות בנייה<br>.מטבחים<br>.פיתוח שטח<br>.הדמיות<br>.פרגולות<br>.חיפויים<br>.מדרגות<br>.עיצוב פנים<br>.נישות</p>
                 <p></p>
             </div>
         </div>
